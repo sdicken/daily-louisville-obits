@@ -18,6 +18,7 @@
   "homepage": "https://github.com/sdicken/daily-louisville-obits#readme",
   "dependencies": {
     "dotenv": "^16.0.1",
+    "node-fetch": "^2.6.7",
     "nodemailer": "^6.7.5"
   }
 }
